@@ -1,0 +1,4 @@
+- Exercise
+- Computer
+- Reading
+- Podcasts
