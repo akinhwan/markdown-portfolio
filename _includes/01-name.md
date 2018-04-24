@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+#Andrew Inhwan Kim
+##my markdown portfolio
+###April 24 2018
+####github rocks baby
